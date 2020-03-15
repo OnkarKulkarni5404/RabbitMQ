@@ -1,0 +1,1 @@
+insert into EMPLOYEE VALUES('123','onkar','80840');
